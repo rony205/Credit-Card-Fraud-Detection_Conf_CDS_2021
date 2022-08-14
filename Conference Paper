@@ -1,0 +1,32 @@
+A Comparative Study of Credit Card Fraud Detection Using the Combination of Machine Learning Techniques with Data Imbalance Solution
+
+Abstract:
+
+Due to the rapid spread of fraud and cybersecurity risks in digital economy, fraud detection stands as a prime issue of modern technology. 
+However, the analysis of fraud cases is computationally difficult because, fraud cases conjure less than 0.2% of the transactions. Thus to figure out the best 
+classification technique to use for fraud detection, this paper has conducted a thorough experimentation of Machine Learning (ML) techniques. 
+It has implemented six ML techniques i.e. Logistic Regression (LR), Support Vector Machine (SVM), Naíve Bayes (NB), Random forest (RF), Decision Tree (DT), 
+and K-nearest neighbour (KNN) classifiers to detect credit card fraud. The investigation used five type of datasets i.e. imbalanced data, Under Sampled (US) data, 
+Over Sampled (OS) data, sampled data using Synthetic Minority Over Sampling Technique (SMOTE) and Adaptive Synthetic Sampling Method for Imbalanced Data (ADASYN). 
+The best combination of these classification approaches is selected based on five performance evaluation criteria i.e. Accuracy, Area Under the Curve (AUC), Precision, 
+Recall score and fl-score. After evaluation of the classifiers it has showed that among 30 different classification approaches, RF classifier with over sampling (OS) 
+technique was found to be the best approach in terms of all the performance criteria. It showed 99.99 % accurate and precise results with 99.99 % AUC, fl-score and 
+100 % Recall rate. Our choosen approach has obtained the highest accuracy over other studies on the same dataset. The banking sector as well as other financial 
+institutions might use this suggested machine learning based combination approach to minimize (debit/credit card) frauds.
+
+
+Published in: 2021 2nd International Conference on Computing and Data Science (CDS)
+
+
+Date of Conference: 28-29 January 2021
+
+Date Added to IEEE Xplore: 05 July 2021
+
+ISBN Information:
+INSPEC Accession Number: 20778569
+
+DOI: 10.1109/CDS52072.2021.00026
+
+Publisher: IEEE
+
+Conference Location: Stanford, CA, USA
